@@ -13,3 +13,4 @@ This project on Lekki real estate data on Microsoft Power BI reveals a dashboard
 5. Building Status
 6. Renovated Status
 
+![](https://github.com/BennydAnalyst/Real_Estate_analysis/blob/main/Real%20estate%20analysis%20Power%20Bi.jpeg)
